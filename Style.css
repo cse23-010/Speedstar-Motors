@@ -50,3 +50,22 @@ nav a {
   text-decoration: none;
   
 }
+nav a {
+  text-decoration: none;
+  color: green; 
+}
+
+nav a:visited {
+  color: pink; 
+}
+
+nav a:hover {
+  color: red; 
+  text-decoration: underline;
+}
+
+nav a:active {
+  color: yellow;
+}
+  
+  
