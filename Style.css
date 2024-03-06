@@ -1,37 +1,52 @@
 
-logo {
-  width: 400px;
-  height: 400px;
-}
 
-body{
-  background-color: lavender;
-}
-
-title {
-  font-size: 24px;
-  font-weight: bold;
-}
-
-vehicle-image {
-  width: 450px;
-  height: 450px;
-}
-
-
-footer {
-
-  padding: 20px;
+header {
   text-align: center;
+  padding: 20px;
+}
+body{
+  background-color:Lavender;
+
+h1 {
+  font-size: 24px;
 }
 
-footer ul {
+
+section {
+  margin: 20px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+ul {
   list-style-type: none;
   padding: 0;
 }
 
-footer li {
+li {
+  margin-bottom: 20px;
+}
+
+
+footer {
+  background-color: lavender;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav li {
   display: inline;
   margin-right: 10px;
 }
 
+nav a {
+  text-decoration: none;
+  
+}
