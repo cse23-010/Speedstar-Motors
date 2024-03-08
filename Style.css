@@ -1,15 +1,10 @@
-body,h1,h2,p nav ul li a{
- text-color:white;
-}
-
-
 a {
   text-decoration: none;
 }
 
 body {
-  background-image: url('background.jpg');
-  <background-size: width="500" height="500"/> ;
+  background-color:lavander;
+
 }
 
 header {
