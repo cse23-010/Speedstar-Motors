@@ -7,7 +7,7 @@ a {
 
 body {
   background-image: url('background.jpg');
-  background-size: cover;
+  background-size: width 300 ;
 }
 
 header {
